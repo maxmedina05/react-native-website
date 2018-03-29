@@ -101,7 +101,7 @@ Assuming that you have [Node](https://nodejs.org/en/download/) installed, you ca
 ```
 npm install -g create-react-native-app
 ```
-
+You'll need to have Node v6 or later on your machine. We strongly recommend using npm v3, v4, or a recent version of Yarn. Create React Native App does not currently work with npm v5 due to bugs in npm (you can track the issue here).
 Then run the following commands to create a new React Native project called "AwesomeProject":
 
 ```
